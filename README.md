@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ilma Akram Ansari</h1>
 <h3 align="center">A passionate Machine Learning developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-girl-gif-2332171326726785246&psig=AOvVaw32npUyTq4liD8fMjc7Vk3d&ust=1745092820198000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjanb-v4owDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fgirl-coder&psig=AOvVaw1lAom8DCrNmai-fo6-9NHI&ust=1753782902549000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIjv886k344DFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilmakram&label=Profile%20views&color=0e75b6&style=flat" alt="ilmakram" /> </p>
 
