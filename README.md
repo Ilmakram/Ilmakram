@@ -30,8 +30,8 @@
   <a href="https://hacktoberfest.com/">
     <img src="https://github.com/Hacktoberfest/hacktoberfest-2020/blob/master/app/assets/images/HF-full-logo.svg" width="120px" height="120px" />
     <img src="https://github.com/Ilmakram/hacktoberfest/blob/main/h1.webp" width="100px" height="100px" />
-    <img src="https://www.holopin.io/hacktoberfest2025/userbadge/cmh263zpj001kil04ed7p7kjo" width="100px" height="100px" />
-    <img src="https://www.holopin.io/userbadge/cmh262s35002flb04mced5be1" width="100px" height="100px" />
+    <img src="https://github.com/Ilmakram/hacktoberfest/blob/main/h2.webp" width="100px" height="100px" />
+    <img src="https://github.com/Ilmakram/hacktoberfest/blob/main/h3.webp" width="100px" height="100px" />
   </a>
 </div>
 
