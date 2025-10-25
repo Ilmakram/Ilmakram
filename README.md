@@ -25,6 +25,16 @@
 - ⚡ Fun fact: I love **books 📚 & cooking 🍳**  
   
 ---
+<summary><b>Hacktoberfest Badges 🎃</b></summary><br>
+<div style="display:flex; align-items:center; gap: 10px;" align="center">
+  <a href="https://hacktoberfest.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Hacktoberfest_2024_Logo.svg" width="120px" height="120px" />
+    <img src="https://raw.githubusercontent.com/digitalocean/hacktoberfest/main/assets/badge-2023.png" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/digitalocean/hacktoberfest/main/assets/badge-2022.png" width="100px" height="100px" />
+    <img src="https://raw.githubusercontent.com/digitalocean/hacktoberfest/main/assets/badge-2021.png" width="100px" height="100px" />
+  </a>
+</div>
+
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
