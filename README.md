@@ -5,9 +5,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Machine+Learning+Developer;AI+%7C+NLP+Enthusiast;Full+Stack+Developer;Problem+Solver+%F0%9F%92%AA;Always+Learning+New+Things+%F0%9F%8E%93" alt="Typing SVG" />
 </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=ilmakram&label=Profile%20views&color=0e75b6&style=flat" alt="ilmakram" /> 
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
