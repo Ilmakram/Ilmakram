@@ -28,10 +28,10 @@
 <summary><b>Hacktoberfest Badges 🎃</b></summary><br>
 <div style="display:flex; align-items:center; gap: 10px;" align="center">
   <a href="https://hacktoberfest.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Hacktoberfest_2024_Logo.svg" width="120px" height="120px" />
-    <img src="https://raw.githubusercontent.com/digitalocean/hacktoberfest/main/assets/badge-2023.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/digitalocean/hacktoberfest/main/assets/badge-2022.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/digitalocean/hacktoberfest/main/assets/badge-2021.png" width="100px" height="100px" />
+    <img src="https://github.com/Hacktoberfest/hacktoberfest-2020/blob/master/app/assets/images/HF-full-logo.svg" width="120px" height="120px" />
+    <img src="https://www.holopin.io/hacktoberfest2025/userbadge/cmgib2cye003hl7043fcewn02" width="100px" height="100px" />
+    <img src="https://www.holopin.io/hacktoberfest2025/userbadge/cmh263zpj001kil04ed7p7kjo" width="100px" height="100px" />
+    <img src="https://www.holopin.io/userbadge/cmh262s35002flb04mced5be1" width="100px" height="100px" />
   </a>
 </div>
 
