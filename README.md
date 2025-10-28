@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ilma Akram Ansari</h1>
 <h3 align="center">🚀 A Passionate Web Developer from India</h3>
+<img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Machine+Learning+Developer;AI+%7C+NLP+Enthusiast;Full+Stack+Developer;Problem+Solver+%F0%9F%92%AA;Always+Learning+New+Things+%F0%9F%8E%93" alt="Typing SVG" />
